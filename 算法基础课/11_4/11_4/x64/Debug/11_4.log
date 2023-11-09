@@ -1,0 +1,4 @@
+﻿  quick_sort.cpp
+D:\Desktop\algorithm_learning\算法基础课\11_4\11_4\quick_sort.cpp(57,19): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\Desktop\algorithm_learning\算法基础课\11_4\11_4\quick_sort.cpp(66,25): warning C4554: “>>”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+  11_4.vcxproj -> D:\Desktop\algorithm_learning\算法基础课\11_4\x64\Debug\11_4.exe
